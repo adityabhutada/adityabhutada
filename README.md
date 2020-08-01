@@ -1,5 +1,5 @@
 # Heya, I'm Aditya! 😄
-<a href="#"><img align="right" width="auto" height="250px" src="/developer.png" title="Aditya" alt="Developer"></a>
+<img align="right" width="auto" height="250px" src="https://github.com/adityabhutada/adityabhutada/blob/master/developer.png">
 
 
 I'm a Web Developer and sometimes try to be a designer. Usually I am more into front-end coding but can be a full-stack developer at times. I have delivered multiple projects which you can find here in my git profile. (which is yet improving.) 
