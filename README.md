@@ -1,4 +1,4 @@
-#Howdy!
+# Howdy!
 
 I am Aditya, Web Developer and sometimes designer. Usually I more into front-end coding but can be a full-stack developer at times. I have delivered multiple projects which you can find here in my git profile.
 
