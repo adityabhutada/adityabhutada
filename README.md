@@ -1,11 +1,18 @@
-<h2 align="center">
+<h1 align="center">
 Heya, I'm Aditya! 😄
-</h2>
+</h1>
 <img align="right" width="auto" height="230px" src="https://github.com/adityabhutada/adityabhutada/blob/master/developer.png">
 
-I'm a Web Developer and sometimes try to be a designer. Usually I am more into front-end coding but can be a full-stack developer at times. I have delivered multiple projects which you can find here in my git profile. (which is yet improving.) 
+I'm a freelance Web Developer and sometimes try to be a Designer. Usually I am more into front-end coding but can be a full-stack developer at times. I have delivered multiple projects which you can find here in my git profile. (which is yet improving.) 
 
 Before you read on further, you can find [my portfolio here](https://adityabhutada.com). I have developed it using HTML5, CSS3, JavaScript, BootStrap 4, FontAwesome 4, Netlify, and of course GitHub. 😛
+
+### What am I upto? 🤔
+- 🎓 Pursuing Master's of Science in Computer Application.
+- 👨🏻‍💻 Working on [Shahrukh's Travel Web Gallery](https://shahrukhblogs.netlify.app) (not SRK).
+- ⚒ Developing an ecomm site [AllMart](https://shopallmart.co).
+- 💻 Learning Advanced JavaScript from [FreeCodeCamp](https://freecodecamp.org).
+- ✨ Exploring new things to learn.
 
 <p align="center">
 You can find me here! 👇🏻<br/>
