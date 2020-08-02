@@ -11,8 +11,14 @@ Before you read on further, you can find [my portfolio here](https://adityabhuta
 - 🎓 Pursuing Master's of Science in Computer Application.
 - 👨🏻‍💻 Working on [Shahrukh's Travel Web Gallery](https://shahrukhblogs.netlify.app) (not SRK).
 - ⚒ Developing an ecomm site [AllMart](https://shopallmart.co).
-- 💻 Learning Advanced JavaScript from [FreeCodeCamp](https://freecodecamp.org).
-- ✨ Exploring new things to learn.
+
+### What I am currently learning? 📚
+- Advanced `JavaScript` from [FreeCodeCamp](https://www.freecodecamp.org/adityabhutada).
+- and exploring more new things to learn.
+
+### Currently working as...
+- Freelance Web Developer (UI)
+- You can pitch me via [this contact form. ✉](https://adityabhutada.com/#contact)
 
 <p align="center">
 You can find me here! 👇🏻<br/>
