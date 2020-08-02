@@ -1,7 +1,7 @@
 <h1 align="center">
 Heya, I'm Aditya! 😄
 </h1>
-<img align="right" width="auto" height="230px" src="https://github.com/adityabhutada/adityabhutada/blob/master/developer.png">
+<img align="right" width="auto" height="180px" src="https://github.com/adityabhutada/adityabhutada/blob/master/developer.png">
 
 I'm a freelance Web Developer and sometimes try to be a Designer. Usually I am more into front-end coding but can be a full-stack developer at times. I have delivered multiple projects which you can find here in my git profile. (which is yet improving.) 
 
