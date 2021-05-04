@@ -1,5 +1,5 @@
 <h1 align="center">
-Heya, I'm Aditya! 😄
+Hey, I'm Aditya! 😄
 </h1>
 <img align="right" width="auto" height="180px" src="https://github.com/adityabhutada/adityabhutada/blob/master/developer.png">
 
