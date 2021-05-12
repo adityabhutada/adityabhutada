@@ -28,5 +28,5 @@ You can find me here! 👇🏻<br/>
 <a href="https://linkedin.com/in/adityabhutada"><img src="https://img.icons8.com/material-two-tone/48/000000/linkedin.png"/></a>
 <a href="https://t.me/hiaditya"><img src="https://img.icons8.com/material-two-tone/48/000000/telegram-app.png"/></a>
 <a href="https://twitter.com/@AadityaBhutada"><img src="https://img.icons8.com/material-two-tone/48/000000/twitter.png"/></a>
-<a href="mailto:aditya@bootsoc.in"><img src="https://img.icons8.com/material-two-tone/48/000000/important-mail.png"/></a>
+<a href="mailto:aditya@bootsoc.in"><img src="https://img.icons8.com/material-two-tone/24/000000/send-mass-email.png"/></a>
 </p>
